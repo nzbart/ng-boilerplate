@@ -1,4 +1,6 @@
-angular.module( 'ngBoilerplate', [
+/// <reference path="../../vendor/DefinitelyTyped/angularjs/angular.d.ts" />
+
+angular.module('ngBoilerplate', [
   'app-templates',
   'component-templates',
   'ngBoilerplate.home',

@@ -1,4 +1,7 @@
-describe( 'AppCtrl', function() {
+/// <reference path="../../vendor/DefinitelyTyped/angularjs/angular-mocks.d.ts" />
+/// <reference path="../../vendor/DefinitelyTyped/jasmine/jasmine.d.ts" />
+
+describe('AppCtrl', function () {
   describe( 'isCurrentUrl', function() {
     var AppCtrl, $location, $scope;
 
