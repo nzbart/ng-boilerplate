@@ -7,3 +7,5 @@ vendor/jquery/
 vendor/bootstrap/
 vendor/angular/
 vendor/angular-ui-utils/
+*.suo
+*.ncrunchsolution
