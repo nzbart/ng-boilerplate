@@ -10,3 +10,4 @@ vendor/angular-ui-utils/
 vendor/DefinitelyTyped/
 *.suo
 *.ncrunchsolution
+*.user
